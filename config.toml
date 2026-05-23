@@ -1,0 +1,18 @@
+[banner]
+rate_up = "Zhuang_Fangyi"
+rate_up_sequence = ["Laevatain", "Gilberta", "Yvonne", "Tangtang", "Rossi", "Zhuang_Fangyi"]
+standard_spooks = ["Ember", "Last_Rite", "Ardelia", "Pogranichnik", "Lifeng"]
+
+[weights]
+Laevatain = 1.0
+Gilberta = 1.0
+Yvonne = 1.0
+Tangtang = 1.0
+Rossi = 1.0
+Zhuang_Fangyi = 1.0
+
+Ember = 0.0
+Last_Rite = 0.0
+Ardelia = 0.0
+Pogranichnik = 0.0
+Lifeng = 0.0
